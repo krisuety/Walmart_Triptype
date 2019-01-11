@@ -1,1 +1,1 @@
-# classi_project
+# Fastcampus DSS+1 Classification project
